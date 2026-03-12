@@ -1,0 +1,7 @@
+{
+  "name": "InjuryIQ",
+  "description": "Load Intelligence Platform for elite youth sports clubs to detect overload risk and manage athlete availability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
